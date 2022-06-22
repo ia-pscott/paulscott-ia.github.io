@@ -3,7 +3,10 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 
 [module]
-proxy = "direct"
+[module.hugoVersion]
+extended = true
+min = "0.100.2"
+max = "0.100.2"
 [[module.imports]]
 path = "github.com/google/docsy"
 [[module.imports]]
@@ -11,3 +14,4 @@ path = "github.com/google/docsy/dependencies"
 
 
 theme = "docsy"
+publishDir = "/docs/"
