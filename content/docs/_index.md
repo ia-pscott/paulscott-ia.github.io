@@ -1,8 +1,6 @@
 ---
-title: "Getting Started"
-draft: False
-weight: 2
+title: Ignition
+alias: /Ignition/
+type: docs
 ---
-
-
-Welcome to the Getting Started section
+Welcome to the Ignition User Manual

@@ -1,12 +1,14 @@
-<p style=" background-color:#FFF5EA; border-color:#FFC98E; border-style:solid; width: 450px;">
-    This feature is new as of is this working?
+<p style=" background-color:#FFF5EA; border-color:#FFC98E; border-style:solid; border-radius: 5px; width: 450px; padding: 3px; border-width: 1px;">
+    This feature is new as of
     <b>
         
         {{/* ".Get" retrieves parameters from instances of this shortcode.*/}}
         {{ .Get "versionAdded" }}
     </b>
     <br>
-        Click here to check out the other new features
+    
+    <a href={{ref . `/docs/getting-started/new-in-this-version/_index.md`}}>Click here</a>
+        to check out the other new features
         <br>
         {{/* If content is specified in the instance of the shortcode, ".Inner" will retrieve the content and render it in the shortcode */}}
         {{ .Inner }}
