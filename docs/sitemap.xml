@@ -2,21 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/docs/getting-started/welcome/introducting-ignition/</loc>
+    <loc>/getting-started/welcome/introducting-ignition/</loc>
   </url><url>
-    <loc>/docs/getting-started/welcome/</loc>
+    <loc>/getting-started/welcome/</loc>
   </url><url>
-    <loc>/docs/getting-started/welcome/apples/</loc>
+    <loc>/getting-started/welcome/apples/</loc>
   </url><url>
-    <loc>/docs/getting-started/</loc>
+    <loc>/getting-started/</loc>
   </url><url>
-    <loc>/docs/getting-started/new-in-this-version/</loc>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/docs/</loc>
+    <loc>/getting-started/new-in-this-version/</loc>
   </url><url>
     <loc>/</loc>
+  </url><url>
+    <loc>/categories/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>
