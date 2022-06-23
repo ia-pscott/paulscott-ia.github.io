@@ -1,5 +1,5 @@
 ---
-title: "New in this Version - test page"
+title: "New in this Version test page"
 draft: False
 weight: 4
 type: docs
