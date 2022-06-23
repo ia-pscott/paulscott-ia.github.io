@@ -1,6 +1,10 @@
-baseURL = 'https://paulscott-ia.github.io'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+
+theme = ["docsy"]
+publishDir = "/docs"
+
 
 [module]
 [module.hugoVersion]
@@ -13,5 +17,3 @@ path = "github.com/google/docsy"
 path = "github.com/google/docsy/dependencies"
 
 
-theme = "docsy"
-publishDir = "/docs/"
